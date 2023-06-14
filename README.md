@@ -4,7 +4,7 @@ You won't be able to submit the form until you enter correct length of password.
 
 ## Project Image
 
-<image src="assets/images/Screenshot from 2023-06-14 08-52-56.png" />
+<image src="./assets/images/Screenshot from 2023-06-14 08-52-56.png"/>
 
 ## Live Project Link
 
